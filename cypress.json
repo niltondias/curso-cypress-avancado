@@ -1,3 +1,5 @@
 {
-  "baseUrl": "https://wlsf82-hacker-stories.web.app"
+  "baseUrl": "https://wlsf82-hacker-stories.web.app",
+  "requestTimeout": 15000,
+  "defaultCommandTimeout": 15000
 }
