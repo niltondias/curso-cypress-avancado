@@ -2,7 +2,7 @@
     "hits": [
         {
             "title": "Sample 1",
-            "url": "https://exmple.com/1",
+            "url": "https://exemple.com/1",
             "author": "Author 1",
             "num_comments": 34,
             "points": 91,
@@ -10,7 +10,7 @@
         },
         {
             "title": "Sample 2",
-            "url": "https://exmple.com/2",
+            "url": "https://exemple.com/2",
             "author": "Author 2",
             "num_comments": 42,
             "points": 83,
